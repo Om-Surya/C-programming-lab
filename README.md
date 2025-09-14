@@ -1,7 +1,7 @@
 # C-programming-lab
 A repository is a central, structured storage place or a person that holds something in large quantities. In a general sense, it can be a physical location like a museum or a warehouse, or an abstract collection such as a repository of knowledge. In a technical context, such as software development, it is a centralized storage system for digital assets like software code, data, and configurations, often managed by systems like Git
 
-
+(Lab#3 Task#4 below)
 # My Favorite Programming Languages
 
 - C
@@ -9,3 +9,18 @@ A repository is a central, structured storage place or a person that holds somet
 - JavaScript
 - C++
 - Java
+
+(Lab#3 Task#5)
+#Heading
+**Bold**
+*Italic*
+~~strikethrough text~~
+```python
+print("Hello, world!")
+```
+- [x] Task 1  
+- [x] Task 2  
+- [x] Task 3  
+- [x] Task 4  
+- [x] Task 5
+  
