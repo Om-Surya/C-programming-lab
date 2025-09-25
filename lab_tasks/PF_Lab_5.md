@@ -1,4 +1,8 @@
-// Task 1: Expression Evaluation Step by Step
+# Lab Tasks 1-10
+
+## Task 1: Expression Evaluation Step by Step
+
+```c
 #include <stdio.h>
 
 int main(){
@@ -16,8 +20,11 @@ int main(){
     printf("last step is adding a to it. a+b*(a-b)/2. and the answer is %.2f \n", (a+b*(result/2)));
     return 0;
 }
+```
 
-// Task 2: Logical Operators
+## Task 2: Logical Operators
+
+```c
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -32,8 +39,11 @@ int main(){
     printf("!(x == y). it is %s\n", (!(x == y))?("true"):("false"));
     return 0;
 }
+```
 
-// Task 3: Square Root using Math Library
+## Task 3: Square Root using Math Library
+
+```c
 #include <stdio.h>
 #include <math.h>
 
@@ -44,8 +54,11 @@ int main(){
     printf("\nsqrt is %.2f\n", sqrt(num));
     return 0;
 }
+```
 
-// Task 4: Ternary Operator for Comparison
+## Task 4: Ternary Operator for Comparison
+
+```c
 #include <stdio.h>
 
 int main(){
@@ -57,8 +70,11 @@ int main(){
     (m>n)?printf("%d is greater than %d\n", m,n):printf("%d is greater than %d\n", n,m);
     return 0;
 }
+```
 
-// Task 5: Nested Switch-Case for School Grading System
+## Task 5: Nested Switch-Case for School Grading System
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -150,8 +166,11 @@ int main() {
     
     return 0;
 }
+```
 
-// Task 6: Nested Ternary Operator for Maximum Value
+## Task 6: Nested Ternary Operator for Maximum Value
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -166,8 +185,11 @@ int main() {
     
     return 0;
 }
+```
 
-// Task 7: Arithmetic Operators
+## Task 7: Arithmetic Operators
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -184,8 +206,11 @@ int main() {
     
     return 0;
 }
+```
 
-// Task 8: Relational Operators
+## Task 8: Relational Operators
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -203,8 +228,11 @@ int main() {
     
     return 0;
 }
+```
 
-// Task 9: Use Bitwise Operators
+## Task 9: Use Bitwise Operators
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -222,8 +250,11 @@ int main() {
     
     return 0;
 }
+```
 
-// Task 10: Nested If-Else for Largest of Three Numbers
+## Task 10: Nested If-Else for Largest of Three Numbers
+
+```c
 #include <stdio.h>
 
 int main() {
@@ -250,3 +281,4 @@ int main() {
     
     return 0;
 }
+```
